@@ -6,7 +6,7 @@ Below is the change information according to the versions.
 ### Added
 * Added new method for Arrays library.[[1f282fa](https://github.com/znframework/fullpack-edition/commit/d08edc12d1bc1994b31dd50e14c3cad78d0a7dd4#diff-1f282fa8e8fc62801de171c3298f9fd8)]
 * Added new methods for Date & Time libraries.[[d01f2d4](https://github.com/znframework/fullpack-edition/commit/d01f2d44e5dfc32ca56753cf094d4f1aed91a14f)]
-* Added local vale driver.[[4ee5665](https://github.com/znframework/fullpack-edition/commit/4ee56654c09a75e48127965b1ca38cbdd09a3ea5)]
+* Added local valet driver.[[4ee5665](https://github.com/znframework/fullpack-edition/commit/4ee56654c09a75e48127965b1ca38cbdd09a3ea5)]
 * Added ability to undo upgrade.[[81fa029](https://github.com/znframework/fullpack-edition/commit/81fa029aa441023e6f9f060f0928d8a466a11c91)]
 * Added Console\UndoUpgrade command.[[aaaf5be](https://github.com/znframework/fullpack-edition/commit/81fa029aa441023e6f9f060f0928d8a466a11c91#diff-aaaf5bef5a8dea4ec5e9cc50d200b65e)]
 

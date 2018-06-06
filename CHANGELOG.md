@@ -1,6 +1,31 @@
 # VERSION NOTES
 Below is the change information according to the versions.
 
+## 5.7.6 [2018-06-07]
+
+### Added
+* Added new method for Arrays library.[[1f282fa](https://github.com/znframework/fullpack-edition/commit/d08edc12d1bc1994b31dd50e14c3cad78d0a7dd4#diff-1f282fa8e8fc62801de171c3298f9fd8)]
+* Added new methods for Date & Time libraries.[[d01f2d4](https://github.com/znframework/fullpack-edition/commit/d01f2d44e5dfc32ca56753cf094d4f1aed91a14f)]
+* Added local vale driver.[[4ee5665](https://github.com/znframework/fullpack-edition/commit/4ee56654c09a75e48127965b1ca38cbdd09a3ea5)]
+* Added ability to undo upgrade.[[81fa029](https://github.com/znframework/fullpack-edition/commit/81fa029aa441023e6f9f060f0928d8a466a11c91)]
+* Added Console\UndoUpgrade command.[[aaaf5be](https://github.com/znframework/fullpack-edition/commit/81fa029aa441023e6f9f060f0928d8a466a11c91#diff-aaaf5bef5a8dea4ec5e9cc50d200b65e)]
+
+### Modified
+* Modified Upload class.[[f6fe402](https://github.com/znframework/fullpack-edition/commit/f6fe402dbae30ff9f7b986ff1c98228bf9b94601)]
+* Modified ZN class.[[bd581df](https://github.com/znframework/fullpack-edition/commit/bd581dfc1a5b144042b24ddf1ed0c7b7e18a7b4b)]
+* Modified Autoloader class.[[e7f7d4d](https://github.com/znframework/fullpack-edition/commit/e7f7d4d5edb732f24748cd69863ce3b4e0fe756c)]
+
+### Changed
+* Changed Upgrade system.[[df4524c](https://github.com/znframework/fullpack-edition/commit/df4524ccee03a3c90bdba3d33507ace2067a4256)]
+
+### Fixed
+* Fixed Redirect::deleteData method.[[e3af4d5](https://github.com/znframework/fullpack-edition/commit/e3af4d5c19603878ca5d4bc750ee3c448ac02290)]
+* Fixed Controller class.[[5e8a0cb](https://github.com/znframework/fullpack-edition/commit/5e8a0cbbebf59295d0b23c2f4205aad147f38a99)]
+* Fixed Wizard class.[[2275c6d](https://github.com/znframework/fullpack-edition/commit/d4d3bb32901ef3c36c4b8cfc6830ccc505e30881#diff-2275c6decbdb84224b7829f00be5a60c)]
+
+### Removed
+* Removed External templates.[[ff35b89](https://github.com/znframework/fullpack-edition/commit/ff35b89a22007cf7df2bf43594d3c5ce19418039)]
+
 ## 5.7.5 [2018-06-01]
 
 ### Added

@@ -1,6 +1,15 @@
 # VERSION NOTES
 Below is the change information according to the versions.
 
+## 5.7.7 [2018-06-14]
+
+### Added
+* Added automatic injection resolving for controllers.[[a1ea9d6](https://github.com/znframework/fullpack-edition/commit/11e0b4919154c81d41a01bd766737a49447f0338#diff-a1ea9d62f54df9d85c38b18e35cfa4f7)]
+* Added command to undo version upgrade.[[22d068b](https://github.com/znframework/fullpack-edition/commit/22d068b1b3d72364188eba7ab8dd7235aaf5f6d4)]
+
+### Fixed
+* A bug that prevented usage through the console was fixed.[[a86d20b](https://github.com/znframework/fullpack-edition/commit/a86d20b26daeb0bfa75d7e7fb350b838fbf0136b)]
+
 ## 5.7.6 [2018-06-07]
 
 ### Added
